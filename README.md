@@ -43,4 +43,4 @@ Discord: `YUVRAJ#5666`, `Classikan#1567`
 
 If you have any problem, feel free to contact us. 😉
 
-<img src="https://discord.c99.nl/widget/theme-2/753180650202202154.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-2/701834440157954221.png" alt="Discord"/>
