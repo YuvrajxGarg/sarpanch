@@ -1,15 +1,7 @@
 <h1 align="center">
-<<<<<<< HEAD
-   SARPANCH : The Discord Bot
-</h1>
-
-  
-</p>
-=======
    Sarpanch : The Multipurpose Disocrd Bot
 </h1>
 <h4 align="center">Commands, Events, Permissions and Cooldown Handlers for Discord.js v14 bot ~ Made by Team Troubleshooters</h4>
->>>>>>> 371ade8ee2a2411733cbe26e05effb74e0ceab79
 
 <br>
 
