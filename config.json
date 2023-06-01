@@ -1,6 +1,6 @@
 {
 	"prefix": "sir",
-	"verifyRole": "1016704626956963870",
+	
 	"messages": {
 		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
 	}

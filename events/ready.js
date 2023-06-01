@@ -6,8 +6,7 @@ client.on("ready", () => {
 	const activities = [
 		{ name: `Jeet and Yuvraj`, type: ActivityType.Listening },
 		{ name: `with your feelings`, type: ActivityType.Playing },
-		{ name: `your sister`, type: ActivityType.Watching },
-		{ name: `against your boyfriend`, type: ActivityType.Competing }
+		{ name: `your sister`, type: ActivityType.Watching }
 	];
 	const status = [
 		'online',
