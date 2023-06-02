@@ -16,7 +16,6 @@ module.exports = {
 		
 	
 	         message.reply({ embeds: [embed]})
-  
         }
         else{
             
@@ -29,7 +28,7 @@ module.exports = {
            // console.log(arr[b])
            
           message.channel.send({ content : "<@"+arr[b].user.id+"> " , embeds : [embed]})
-            
+  
             }
         
 	}

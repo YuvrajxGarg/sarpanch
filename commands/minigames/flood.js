@@ -17,7 +17,7 @@ module.exports = {
             difficulty: 13,
             timeoutTime: 60000,
             buttonStyle: "SUCCESS",
-            emojis: ["🟥", "🟦", "🟧", "🟪", "🟩"],
+            emojis: ["🟥", "🟦", "🟧", "⬜", "🟩"],
             winMessage: "You won! You took **{turns}** turns.",
             loseMessage: "You lost! You took **{turns}** turns.",
             playerOnlyMessage: "Only {player} can use these buttons."

@@ -13,6 +13,8 @@ const client = new Client({
 
 const fs = require('fs');
 const config = require('./config.json');
+const enmap = require("enmap");
+
 require('dotenv').config() // remove this line if you are using replit
 
 client.commands = new Collection()
